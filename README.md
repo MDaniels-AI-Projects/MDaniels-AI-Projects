@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdaniels-ai-projects&label=Profile%20views&color=0e75b6&style=flat" alt="mdaniels-ai-projects" /> </p>
 
-- 🔭 I’m currently working on **AI stock and crypto predictors**
+- 🔭 I’m currently working on **an AI stock and crypto predictor! Join me, as I hope to turn it into an app on IOS and Andoid**
 
 - 👯 I’m looking to collaborate on **AI models to predict future events, such as stock prices and bitcoin prices**
 
@@ -25,3 +25,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/explorersanchoarage"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/explorersanchoarage" /></a></p><br><br>
+
