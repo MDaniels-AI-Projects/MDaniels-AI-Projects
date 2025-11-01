@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI models to predict future events, such as stock prices and bitcoin prices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MDaniels-AI-Projects](https://github.com/MDaniels-AI-Projects)
+- 👨‍💻 All of my repositories are available at https://github.com/MDaniels-AI-Projects?tab=repositories
 
 - 💬 Ask me about **Anything to do with science and technology.**
 
